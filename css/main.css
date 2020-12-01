@@ -1,0 +1,12 @@
+img{
+  border-radius: 7px;
+  border: 1px solid #f2f2f2;
+  padding: 10px;
+  width:400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+li{
+  text-align: center;
+}
